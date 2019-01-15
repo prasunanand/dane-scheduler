@@ -1,0 +1,13 @@
+{
+  "name": "dane",
+  "authors": [
+    "prasunanand"
+  ],
+  "dependencies": {
+    "cblas":
+  },
+  "description": "D task scheduler",
+  "copyright": "Copyright © 2019, Prasun Anand",
+  "license": "GPL3",
+  "libs": [],
+}
